@@ -1,0 +1,3 @@
+cd backend
+npm install express ws body-parser axios
+node server.js
