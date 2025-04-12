@@ -21,6 +21,4 @@ const chatWithOpenAI = async (req, res) => {
   }
 };
 
-
-
-module.exports = { chatWithOpenAI, handleChat };
+module.exports = { chatWithOpenAI };
